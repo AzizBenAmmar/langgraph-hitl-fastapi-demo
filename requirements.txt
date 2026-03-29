@@ -1,0 +1,28 @@
+# Core
+fastapi
+uvicorn
+pydantic
+typing_extensions
+python-dotenv
+
+# LangGraph & LangChain
+langgraph
+langchain_core
+langchain_community
+
+# LLM Providers
+langchain_huggingface    # HuggingFace Inference API (primary)
+langchain_openai         # OpenAI (optional alternative)
+
+# Streaming
+sse-starlette
+
+# MCP (lesson 03)
+langchain-mcp-adapters
+pyppeteer
+
+# Streamlit UI
+streamlit
+
+# HTTP
+requests
