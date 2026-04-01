@@ -256,6 +256,4 @@ Extended by: [@azbenammar](https://github.com/azbenammar)
 
 ---
 
-## License
 
-MIT
